@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: monitoring.spip.nl
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
